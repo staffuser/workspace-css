@@ -4,6 +4,6 @@
   <br>
   Connect it, you need to enter the line of code in <p1>``index.html``</p1>.
   <br>
-  Example: <code>``<link rel="stylesheet" href="style.css" type="text/css">``</code>
+  Example: <code>``//<link rel="stylesheet" href="style.css" type="text/css">``</code>
   <br>
 </p>
